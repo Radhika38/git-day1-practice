@@ -4,3 +4,10 @@ Training Practice
 
 Hi, I am Radhika Barot.
 
+
+
+## About This Project
+
+This project is created to practice Git branching.
+
+I am learning professional Git workflows.
