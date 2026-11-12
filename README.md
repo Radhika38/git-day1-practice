@@ -14,3 +14,9 @@ I am learning professional Git workflows.
 I am practicing Git Diff.
 
 I'm learning feature branches in git.
+
+
+## My Skills
+Coder
+Digital Marketer
+Content-Creator
